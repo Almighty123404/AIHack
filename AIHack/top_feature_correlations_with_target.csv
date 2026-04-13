@@ -1,0 +1,21 @@
+feature,pearson_corr
+Number of Unsecured Loans,0.08263696199988144
+log1p_Amount_of_Unsecured_Loans,0.07669054406130706
+Age_at_Application,-0.06206354515819247
+Duration of Employment at Company (Months),-0.060167681613019455
+long_employment_flag,-0.05945155692666401
+Amount of Unsecured Loans_rank_frac,0.05735529396542629
+age_times_employment_months,-0.056547551786652744
+employment_stability_index,-0.055050692301205593
+Declared Number of Unsecured Loans,0.05375256944467238
+Reception Type Category,0.05028340586284987
+Duration of Residence (Months),-0.05024167327785504
+Family Composition Type,0.04960289189303392
+declared_mismatch_flag,0.04794504157541521
+income_per_employment_month,0.04785680234493404
+perc_discrepancy_count,-0.04563199933143128
+Single/Married Status,-0.04555005496778278
+Name Type,-0.04554334636330765
+Major Media Code,-0.04450942100124628
+many_unsecured_loans_flag,0.04428664741515021
+Living Arrangement Type,0.04312444182306886
